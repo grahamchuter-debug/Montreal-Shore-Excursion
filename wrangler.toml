@@ -1,0 +1,4 @@
+name = "montreal-shore-excursion"
+compatibility_date = "2026-06-27"
+
+[env.production]
